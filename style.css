@@ -1,0 +1,56 @@
+.navbar {
+    background-color: #bce6eb;
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.fas {
+    padding: 10px;
+}
+
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+
+#about {
+    background-color: #bce6eb;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+
+}
+
+#skills {
+    background-color: #98acf8;
+    font-family: cursive;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+#awards {
+background-color: #dcd6f7;
+}
+
+.container{
+    display:grid;
+}
+
+
+#education {
+    background-color: #fdcfdf;
+    font-family: cursive;
+}
+
+#contact {
+    background-color: #a6b1e1;
+}
